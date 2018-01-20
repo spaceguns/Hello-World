@@ -1,1 +1,1 @@
-Hello World! Testing Git and annoyingly running into errors!
+Hello World! Testing Git!
