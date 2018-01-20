@@ -1,1 +1,1 @@
-Hello World! Testing Git!
+Hello World! Newbie to Git and Github testing!
